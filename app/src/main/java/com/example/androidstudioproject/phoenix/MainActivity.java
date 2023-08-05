@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-        webView.loadUrl("https://avenir2k19.herokuapp.com");
+        webView.loadUrl("https://technicalprithwi.blogspot.com/");
 
 
             webView.setWebViewClient(new WebViewClient(){
